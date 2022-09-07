@@ -20,6 +20,14 @@ html {
   overflow-x: hidden;
 }
 
+random {
+  /* This is pretty useless */
+  /* This is pretty useless */
+  /* This is pretty useless */
+  /* This is pretty useless */
+  /* This is pretty useless */
+}
+
 body {
   background-color: var(--black);
   color: white;
@@ -198,5 +206,3 @@ main a:hover {
     background-position: 0% 50%;
   }
 }
-
-
