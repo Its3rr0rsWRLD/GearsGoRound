@@ -20,18 +20,8 @@ html {
   overflow-x: hidden;
 }
 
-random {
-  /* This is pretty useless */
-  /* This is pretty useless */
-  /* This is pretty useless */
-  /* This is pretty useless */
-  /* This is pretty useless */
-}
-
 body {
-  background-color: var(--black);
-  color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--black);
 }
 
 nav > ul {
@@ -76,7 +66,6 @@ nav > ul {
 
 header {
   background-size: cover;
-  background-image: url("images/space.gif");
   /* move the background image up */
   background-position: 0 -125px;
   background-repeat: no-repeat;
